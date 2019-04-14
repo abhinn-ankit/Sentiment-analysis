@@ -113,3 +113,7 @@ venv.bak/
 
 # Visual Studio Code
 **/.vscode/
+
+# System Files
+**/.DS_Store
+**/Thumbs.db
